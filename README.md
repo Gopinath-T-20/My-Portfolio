@@ -1,7 +1,5 @@
 # Gopinath T — Portfolio
 
-🔗 **Live site:** https://gopinath-t-20.github.io
-
 Java Full Stack Developer portfolio built as a single self-contained HTML page, styled like a code editor.
 
 ## About Me
